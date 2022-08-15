@@ -1,8 +1,9 @@
-- 👋 OI, EU SOU @vilsonpiekarz
-- 👀 EU ESTOU INTERESSADO 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 OI, eu sou @vilsonpiekarz
+-    Meu email de contato é vilson.piekarz.junior@escola.pr.gov.br
+- 👀 EU nao estou interessado em aprender
+- 🌱 Eu estou aprendendo recentemente a linguagem de JavasScript e Scratch
+
+
 
 <!---
 vilsonpiekarz/vilsonpiekarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
